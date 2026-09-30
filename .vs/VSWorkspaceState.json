@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\PerudApi",
+    "\\backend\\PerudApi\\Controllers",
+    "\\backend\\PerudApi\\DbContexts",
+    "\\backend\\PerudApi\\Models"
+  ],
+  "SelectedNode": "\\backend\\PerudApi\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

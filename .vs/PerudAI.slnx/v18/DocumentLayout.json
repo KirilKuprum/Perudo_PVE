@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kiril\\Desktop\\PerudAI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\Models\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\Models\\PlayerStats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\DbContexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\DbContexts\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\Models\\GameHistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:backend\\PerudApi\\Models\\GameState.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\appsettings.json",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\appsettings.json",
+              "RelativeToolTip": "backend\\PerudApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-05T10:27:07.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\Program.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Program.cs",
+              "RelativeToolTip": "backend\\PerudApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:26:21.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\DbContexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\DbContexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\DbContexts\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\PerudApi\\DbContexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T10:07:38.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GameHistory.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameHistory.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\Models\\GameHistory.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameHistory.cs",
+              "RelativeToolTip": "backend\\PerudApi\\Models\\GameHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T09:46:03.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GameState.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameState.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\Models\\GameState.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\GameState.cs",
+              "RelativeToolTip": "backend\\PerudApi\\Models\\GameState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T09:45:58.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerStats.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\PlayerStats.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\Models\\PlayerStats.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\PlayerStats.cs",
+              "RelativeToolTip": "backend\\PerudApi\\Models\\PlayerStats.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T09:45:53.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "backend\\PerudApi\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\kiril\\Desktop\\PerudAI\\backend\\PerudApi\\Models\\User.cs",
+              "RelativeToolTip": "backend\\PerudApi\\Models\\User.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-05T09:35:45.947Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
