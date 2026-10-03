@@ -133,3 +133,4 @@ C:\Users\kiril\Desktop\PerudAI\backend\PerudApi\obj\Debug\net10.0\PerudApi.pdb
 C:\Users\kiril\Desktop\PerudAI\backend\PerudApi\obj\Debug\net10.0\PerudApi.genruntimeconfig.cache
 C:\Users\kiril\Desktop\PerudAI\backend\PerudApi\obj\Debug\net10.0\ref\PerudApi.dll
 C:\Users\kiril\Desktop\PerudAI\backend\PerudApi\bin\Debug\net10.0\BCrypt-Net-Next.dll
+C:\Users\kiril\Desktop\PerudAI\backend\PerudApi\obj\Debug\net10.0\PerudApi.sourcelink.json

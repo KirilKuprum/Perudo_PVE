@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerudApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e74e26d6f0a002aea72de6fc5fe67ab27ddd1e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerudApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerudApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
